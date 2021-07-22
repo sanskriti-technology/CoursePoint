@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CoursePoint/static/css/main.cafc9fd4.chunk.css",
-    "main.js": "/CoursePoint/static/js/main.3d7c9d17.chunk.js",
-    "main.js.map": "/CoursePoint/static/js/main.3d7c9d17.chunk.js.map",
-    "runtime-main.js": "/CoursePoint/static/js/runtime-main.d91df6ad.js",
-    "runtime-main.js.map": "/CoursePoint/static/js/runtime-main.d91df6ad.js.map",
-    "static/js/2.79dbd4f5.chunk.js": "/CoursePoint/static/js/2.79dbd4f5.chunk.js",
-    "static/js/2.79dbd4f5.chunk.js.map": "/CoursePoint/static/js/2.79dbd4f5.chunk.js.map",
-    "static/js/3.8a1aaec5.chunk.js": "/CoursePoint/static/js/3.8a1aaec5.chunk.js",
-    "static/js/3.8a1aaec5.chunk.js.map": "/CoursePoint/static/js/3.8a1aaec5.chunk.js.map",
-    "index.html": "/CoursePoint/index.html",
-    "static/css/main.cafc9fd4.chunk.css.map": "/CoursePoint/static/css/main.cafc9fd4.chunk.css.map",
-    "static/js/2.79dbd4f5.chunk.js.LICENSE.txt": "/CoursePoint/static/js/2.79dbd4f5.chunk.js.LICENSE.txt",
-    "static/media/arrow.2e552680.svg": "/CoursePoint/static/media/arrow.2e552680.svg"
+    "main.css": "/course-register/static/css/main.cafc9fd4.chunk.css",
+    "main.js": "/course-register/static/js/main.3f0819df.chunk.js",
+    "main.js.map": "/course-register/static/js/main.3f0819df.chunk.js.map",
+    "runtime-main.js": "/course-register/static/js/runtime-main.bdecb293.js",
+    "runtime-main.js.map": "/course-register/static/js/runtime-main.bdecb293.js.map",
+    "static/js/2.79dbd4f5.chunk.js": "/course-register/static/js/2.79dbd4f5.chunk.js",
+    "static/js/2.79dbd4f5.chunk.js.map": "/course-register/static/js/2.79dbd4f5.chunk.js.map",
+    "static/js/3.8a1aaec5.chunk.js": "/course-register/static/js/3.8a1aaec5.chunk.js",
+    "static/js/3.8a1aaec5.chunk.js.map": "/course-register/static/js/3.8a1aaec5.chunk.js.map",
+    "index.html": "/course-register/index.html",
+    "static/css/main.cafc9fd4.chunk.css.map": "/course-register/static/css/main.cafc9fd4.chunk.css.map",
+    "static/js/2.79dbd4f5.chunk.js.LICENSE.txt": "/course-register/static/js/2.79dbd4f5.chunk.js.LICENSE.txt",
+    "static/media/arrow.2e552680.svg": "/course-register/static/media/arrow.2e552680.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d91df6ad.js",
+    "static/js/runtime-main.bdecb293.js",
     "static/js/2.79dbd4f5.chunk.js",
     "static/css/main.cafc9fd4.chunk.css",
-    "static/js/main.3d7c9d17.chunk.js"
+    "static/js/main.3f0819df.chunk.js"
   ]
 }
