@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar1 {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+ .links {
+  max-width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* Dropdown Menu */
+
+
+
+
+/* Dropdown Menu */
+
+.dropdown {
+  position: absolute;
+  top: 58px;
+  width: 300px;
+ 
+  background-color: var(--bg);
+  border: var(--border);
+  border-radius: var(--border-radius);
+  margin-right: auto;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-end;
+  right:26%;
+ 
+}
+.icon-button:hover {
+  filter: brightness(1.2);
+}
+
+.icon-button svg { 
+  fill: var(--text-color);
+  width: 20px;
+  height: 20px;
+}
+
+.menu {
+  width: 50%;
+  
+}
+
+.menu-item {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--border-radius);
+  background: #f5f6f8;
+  padding: 0.1rem;
+  margin-left: auto;
+}
+
+.menu-item .icon-button {
+  margin-right: 0.5rem;
+  
+}
+
+
+.menu-item .icon-button:hover {
+  filter: none;
+}
+
+.menu-item:hover {
+  background-color: #cecfd1;
+}
+
+.icon-right {
+  margin-left: auto;
+}
+.username {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar1 h1 {
+  color: #f1356d;
+}
+.navbar1 h3 {
+  color: #00f;
+}
+.navbar1 .links {
+  margin-left: auto;
+}
+.navbar1 a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar1 a:hover {
+  color: #f1356d;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* course list */
+.course-details button {
+    background: #5617e7;
+    color: rgb(255, 250, 250);
+    border: 0; 
+    width:100px;
+    padding: 8px;
+    float: right;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+ 
+
+.course-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.course-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.course-preview h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.course-preview a{
+  text-decoration: none;
+}
+/* create singin form */
+.signin {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+.signin label {
+  text-align: Left;
+  
+}
+  .signin p {
+    text-align: center;
+    
+}
+.signin form {
+  text-align: center;
+  display: block;
+}
+.signin h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.signin input {
+  width: 50%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  
+}
+
+.signin button {
+  
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/*create new blog form */
+.signup {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.signup label {
+  text-align: left;
+  display: block;
+}
+.signup textarea{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  grid-template-rows: 70px;
+}
+.signup h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.signup p{
+  font-size: 10px;
+  color: #f1356d;
+  }
+  .signup h2{
+    
+    color: #f1356d;
+    }
+.signup input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.signup button {
+  background: #f1006d;
+  color: rgb(255, 255, 255);
+  padding-right: 0%;
+  text-decoration: none;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
